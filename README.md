@@ -1,6 +1,6 @@
-- Hi, I’m Tyler Wallace. I am a biomedical researcher who loves utilizing programming to improve the efficiency of research. 
-- I’m interested in expanding my data utilization skills to create meaninful improvement for health outcomes. 
-- I'm always learning but right now it's sharpening my skills in Python and R, while building a new set of skills in SQL. 
+Hi, I’m Tyler Wallace. I am a biomedical researcher who loves utilizing programming to improve the efficiency of research. 
+I’m interested in expanding my data utilization skills to create meaninful improvement for health outcomes. 
+I'm always learning but right now it's sharpening my skills in Python and R, while building a new set of skills in SQL. 
 
 
 <!---
