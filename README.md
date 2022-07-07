@@ -7,4 +7,5 @@ I'm always learning but right now it's sharpening my skills in Python and R, whi
 tywall28/tywall28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Contribution guidelines for this project](../IL-Brainstem-Tracing/IL-Brainstem-Tracing-Analysis.pdf)
+[Contribution guidelines for this project](../IL-Brainstem-Tracing/blob/main/IL-Brainstem-Tracing-Analysis.pdf)
+
